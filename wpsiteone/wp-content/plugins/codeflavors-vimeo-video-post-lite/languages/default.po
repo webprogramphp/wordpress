@@ -1,0 +1,1076 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-01-22 13:08+0200\n"
+"PO-Revision-Date: 2016-01-22 13:08+0200\n"
+"Last-Translator: Constantin Boiangiu <constantin.b@gmail.com>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-KeywordsList: __;_e;_x;_ex;_n;_nx;_n_noop;_nx_noop\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../includes/functions.php:634 ../includes/functions.php:715
+msgid "Videos in playlist"
+msgstr ""
+
+#: ../includes/functions.php:635
+msgid ""
+"No videos selected.<br />To create a playlist check some videos from the "
+"list on the right."
+msgstr ""
+
+#: ../includes/functions.php:636
+msgid "Delete from playlist"
+msgstr ""
+
+#: ../includes/functions.php:637
+msgid "Add shortcode into post"
+msgstr ""
+
+#: ../includes/functions.php:661
+msgid "Playlist settings"
+msgstr ""
+
+#: ../includes/functions.php:665
+msgid "Theme"
+msgstr ""
+
+#: ../includes/functions.php:678
+msgid "Aspect"
+msgstr ""
+
+#: ../includes/functions.php:696
+#: ../includes/libs/custom-post-type.class.php:1016
+#: ../views/plugin_settings.php:137
+msgid "Width"
+msgstr ""
+
+#: ../includes/functions.php:699
+#: ../includes/libs/custom-post-type.class.php:1018
+#: ../views/plugin_settings.php:139
+msgid "Height"
+msgstr ""
+
+#: ../includes/functions.php:704
+#: ../includes/libs/custom-post-type.class.php:1040
+#: ../views/plugin_settings.php:162
+msgid "Volume"
+msgstr ""
+
+#: ../includes/functions.php:707
+#: ../includes/libs/custom-post-type.class.php:1043
+#: ../views/plugin_settings.php:165
+msgid "number between 0 (mute) and 100 (max)"
+msgstr ""
+
+#: ../includes/functions.php:711
+msgid "Insert playlist"
+msgstr ""
+
+#: ../includes/functions.php:718
+msgid "No video selected"
+msgstr ""
+
+#: ../includes/functions.php:718
+msgid "To create a playlist check some videos from the list on the right."
+msgstr ""
+
+#: ../includes/functions.php:737
+msgid "Default theme"
+msgstr ""
+
+#: ../includes/functions.php:738
+msgid "Carousel navigation (PRO)"
+msgstr ""
+
+#: ../includes/functions.php:1055
+msgid "WordPress encountered and error while trying to query Vimeo:"
+msgstr ""
+
+#: ../includes/functions.php:1068
+#, php-format
+msgid "Vimeo error code: %s (<em>%s</em>) - <strong>%s</strong>"
+msgstr ""
+
+#: ../includes/functions.php:1072
+msgid "Settings page"
+msgstr ""
+
+#: ../includes/functions.php:1073
+#, php-format
+msgid "Please visit %s and enter your consumer and secret keys."
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:60
+#: ../includes/libs/custom-post-type.class.php:72
+#: ../includes/libs/custom-post-type.class.php:227
+#: ../includes/libs/custom-post-type.class.php:228
+msgid "Videos"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:61
+msgid "Video"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:62
+#: ../includes/libs/custom-post-type.class.php:555
+msgid "Add new"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:63
+msgid "Add new video"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:64
+msgid "Edit video"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:65
+msgid "New video"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:66
+msgid "All videos"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:67
+msgid "View"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:68
+#: ../includes/libs/custom-post-type.class.php:388
+msgid "Search"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:69
+msgid "No videos found"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:70
+msgid "No videos in trash"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:106
+#: ../includes/libs/custom-post-type.class.php:116
+#: ../includes/libs/video-widgets.class.php:158
+msgid "Video categories"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:107
+msgid "Video category"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:108
+msgid "Search video category"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:109
+msgid "All video categories"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:110
+msgid "Video category parent"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:111
+msgid "Video category parent:"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:112
+msgid "Edit video category"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:113
+msgid "Update video category"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:114
+msgid "Add new video category"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:115
+msgid "Video category name"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:133
+msgid "Vimeo Video tags"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:134
+msgid "Vimeo Video tag"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:135
+msgid "Search video tag"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:136
+msgid "All video tags"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:137
+msgid "Video tag parent"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:138
+msgid "Video tag parent:"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:139
+msgid "Edit video tag"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:140
+msgid "Update video tag"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:141
+msgid "Add new video tag"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:142
+msgid "Video tag name"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:143
+msgid "Tags"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:175
+#, php-format
+msgid "Video updated <a href=\"%s\">See video</a>"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:176
+msgid "Custom field updated."
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:177
+msgid "Custom field deleted."
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:178
+msgid "Video updated."
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:180
+#, php-format
+msgid "Video restored to version %s"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:181
+#, php-format
+msgid "Video published. <a href=\"%s\">See video</a>"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:182
+msgid "Video saved."
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:183
+#, php-format
+msgid "Video saved. <a target=\"_blank\" href=\"%s\">See video</a>"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:184
+#, php-format
+msgid ""
+"Video will be published at: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">See video</a>"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:186
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:187
+#, php-format
+msgid "Video draft saved. <a target=\"_blank\" href=\"%s\">See video</a>"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:189
+msgid "Please select a source"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:190
+#, php-format
+msgid ""
+"Vimeo video with ID <strong><em>%s</em></strong> is already imported. You "
+"are now editing the existing video."
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:202
+#: ../includes/libs/custom-post-type.class.php:203
+#: ../includes/libs/custom-post-type.class.php:446
+#: ../includes/libs/custom-post-type.class.php:536
+msgid "Import videos"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:210
+msgid "Automatic Vimeo video import"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:211
+msgid "Automatic import<sup>PRO</sup>"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:219
+#: ../includes/libs/custom-post-type.class.php:220
+#: ../includes/libs/custom-post-type.class.php:280
+msgid "Settings"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:266
+msgid ""
+"To activate Vimeo Video Post you must first deactivate <strong>CodeFlavors "
+"Vimeo Video Post Lite</strong>."
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:300
+msgid "Automatic import"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:300
+msgid "PRO feature"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:301
+msgid "Add New"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:304
+msgid ""
+"PRO feature that allows automatic creation of video posts from channels, "
+"albums, categories, groups or user uploads."
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:307
+msgid ""
+"Import frequency can be customized to import batches of 20 videos at "
+"intervals between 1 minute and 1 day."
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:310
+msgid ""
+"Custom posts created using the automatic import feature will follow the "
+"import rules set under Setings."
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:352
+msgid "Video list"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:410
+#: ../includes/libs/video-import-list-table.class.php:127
+#: ../includes/libs/video-list-table.class.php:159
+msgid "Video ID"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:411
+#: ../includes/libs/video-import-list-table.class.php:129
+#: ../includes/libs/video-list-table.class.php:160
+msgid "Duration"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:456
+msgid "Import"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:457
+#: ../includes/libs/video-list-table.class.php:145
+msgid "Categories"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:492
+msgid "Set description as"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:496
+msgid "content"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:497
+msgid "excerpt"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:498
+msgid "both"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:499
+msgid "none"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:507
+#: ../views/plugin_settings.php:87
+msgid "Import status"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:511
+#: ../includes/libs/video-import-list-table.class.php:132
+#: ../includes/libs/video-list-table.class.php:114
+#: ../views/plugin_settings.php:92
+msgid "Published"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:512
+#: ../views/plugin_settings.php:93
+msgid "Draft"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:513
+#: ../views/plugin_settings.php:94
+msgid "Pending"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:521
+#: ../views/plugin_settings.php:59
+msgid "Import titles"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:529
+#, php-format
+msgid "Import in <strong>%s</strong><sup>PRO</sup>?"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:560
+msgid "Create category"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:580
+msgid "Category couldn't be identified. Please try again."
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:583
+msgid "Please enter a category name."
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:596
+msgid "Category already exists."
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:784
+#, php-format
+msgid "Out of %d videos, %d were successfully imported and %d were skipped."
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:790
+msgid ""
+"No videos selected for importing. Please select some videos by checking the "
+"checkboxes next to video title."
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:793
+msgid "Please select an action."
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:796
+#: ../includes/libs/custom-post-type.class.php:799
+msgid "Cheatin' uh?"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:818
+msgid "Importing, please wait..."
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:819
+msgid "Not done yet, still importing. You'll have to wait a bit longer."
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:896
+msgid "Video settings"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:905
+msgid "Live video"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:930
+msgid "Video shortcode"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:943
+msgid "Add video/playlist into post."
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:944
+msgid "Add shortcode"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:944
+msgid "Add video shortcode"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:1000
+#: ../views/plugin_settings.php:121
+msgid "Player size"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:1002
+#: ../views/plugin_settings.php:123
+msgid "Aspect ratio"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:1023
+msgid "Video position"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:1028
+#: ../views/plugin_settings.php:149
+msgid "Above post content"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:1029
+#: ../views/plugin_settings.php:150
+msgid "Below post content"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:1047
+#: ../views/plugin_settings.php:185
+msgid "Autoplay"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:1050
+msgid "when checked, video will start playing once page is loaded"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:1055
+#: ../views/plugin_settings.php:170
+msgid "Show video title"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:1058
+msgid "when checked, player will display video title"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:1063
+msgid "Allow full screen"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:1070
+#: ../views/plugin_settings.php:195
+msgid "Player color"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:1075
+msgid "Show video author"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:1078
+msgid "When checked, player will display video uploader."
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:1083
+msgid "Author portrait"
+msgstr ""
+
+#: ../includes/libs/custom-post-type.class.php:1086
+msgid "When checked, player will display uploader image."
+msgstr ""
+
+#: ../includes/libs/video-import-list-table.class.php:23
+#, php-format
+msgid "Column <em>%s</em> was not found."
+msgstr ""
+
+#: ../includes/libs/video-import-list-table.class.php:49
+msgid "View on Vimeo"
+msgstr ""
+
+#: ../includes/libs/video-import-list-table.class.php:78
+#, php-format
+msgid "%d likes"
+msgstr ""
+
+#: ../includes/libs/video-import-list-table.class.php:115
+msgid "Query to Vimeo returned this error: "
+msgstr ""
+
+#: ../includes/libs/video-import-list-table.class.php:126
+#: ../includes/libs/video-list-table.class.php:158
+#: ../includes/libs/video-widgets.class.php:105
+#: ../includes/libs/video-widgets.class.php:221
+msgid "Title"
+msgstr ""
+
+#: ../includes/libs/video-import-list-table.class.php:128
+msgid "Uploader"
+msgstr ""
+
+#: ../includes/libs/video-import-list-table.class.php:130
+msgid "Likes"
+msgstr ""
+
+#: ../includes/libs/video-import-list-table.class.php:131
+msgid "Views"
+msgstr ""
+
+#: ../includes/libs/video-import.class.php:57
+msgid "Query to Vimeo failed."
+msgstr ""
+
+#: ../includes/libs/video-list-table.class.php:40
+msgid "Insert video shortcode"
+msgstr ""
+
+#: ../includes/libs/video-list-table.class.php:113
+msgid "Y/m/d"
+msgstr ""
+
+#: ../includes/libs/video-list-table.class.php:131
+msgid "All categories"
+msgstr ""
+
+#: ../includes/libs/video-list-table.class.php:147
+msgid "Filter"
+msgstr ""
+
+#: ../includes/libs/video-list-table.class.php:161
+msgid "Category"
+msgstr ""
+
+#: ../includes/libs/video-list-table.class.php:162
+msgid "Date"
+msgstr ""
+
+#: ../includes/libs/video-widgets.class.php:13
+msgid "The most recent videos on your site."
+msgstr ""
+
+#: ../includes/libs/video-widgets.class.php:24
+msgid "Recent videos"
+msgstr ""
+
+#: ../includes/libs/video-widgets.class.php:109
+msgid "Number of videos to show"
+msgstr ""
+
+#: ../includes/libs/video-widgets.class.php:114
+msgid "Display Vimeo thumbnails?"
+msgstr ""
+
+#: ../includes/libs/video-widgets.class.php:118
+msgid "Show as video playlist<sup>PRO</sup>"
+msgstr ""
+
+#: ../includes/libs/video-widgets.class.php:147
+msgid "A list or dropdown of video categories."
+msgstr ""
+
+#: ../includes/libs/video-widgets.class.php:226
+msgid "Show videos count"
+msgstr ""
+
+#: ../includes/libs/video-widgets.class.php:229
+msgid "Show hierarchy"
+msgstr ""
+
+#: ../includes/libs/vimeo.class.php:94
+msgid ""
+"Vimeo authorization credentials could not be found. Please enter them in "
+"plugin Settings page."
+msgstr ""
+
+#: ../includes/libs/vimeo.class.php:118
+msgid "Error, no access code provided."
+msgstr ""
+
+#: ../includes/libs/vimeo.class.php:340
+#, php-format
+msgid "Action %s could not be found to query Vimeo."
+msgstr ""
+
+#: ../views/import_videos.php:3
+msgid "Import videos from Vimeo."
+msgstr ""
+
+#: ../views/import_videos.php:4
+msgid ""
+"Enter your search criteria and submit. All found videos will be displayed "
+"and you can selectively import videos into WordPress."
+msgstr ""
+
+#: ../views/import_videos.php:16 ../views/manage_playlist.php:26
+msgid "Feed type"
+msgstr ""
+
+#: ../views/import_videos.php:25
+msgid "Search videos on Vimeo"
+msgstr ""
+
+#: ../views/import_videos.php:26
+msgid "Enter Vimeo search query"
+msgstr ""
+
+#: ../views/import_videos.php:29
+msgid "Load Vimeo album"
+msgstr ""
+
+#: ../views/import_videos.php:30
+msgid "Enter Vimeo album ID"
+msgstr ""
+
+#: ../views/import_videos.php:33
+msgid "Load Vimeo channel"
+msgstr ""
+
+#: ../views/import_videos.php:34
+msgid "Enter Vimeo channel"
+msgstr ""
+
+#: ../views/import_videos.php:37
+msgid "User uploads"
+msgstr ""
+
+#: ../views/import_videos.php:38
+msgid "Enter Vimeo user"
+msgstr ""
+
+#: ../views/import_videos.php:41
+msgid "Group videos"
+msgstr ""
+
+#: ../views/import_videos.php:42
+msgid "Enter Vimeo group"
+msgstr ""
+
+#: ../views/import_videos.php:45 ../views/manage_playlist.php:35
+msgid "Vimeo category"
+msgstr ""
+
+#: ../views/import_videos.php:46
+msgid "Enter Vimeo category"
+msgstr ""
+
+#: ../views/import_videos.php:56
+msgid "Select the type of feed you want to load."
+msgstr ""
+
+#: ../views/import_videos.php:63
+msgid "Vimeo search query"
+msgstr ""
+
+#: ../views/import_videos.php:70
+msgid ""
+"Enter search query, user ID, group ID, channel ID or album ID according to "
+"Feed Type selection."
+msgstr ""
+
+#: ../views/import_videos.php:82
+msgid "Order by"
+msgstr ""
+
+#: ../views/import_videos.php:90
+msgid "Newest videos first"
+msgstr ""
+
+#: ../views/import_videos.php:91
+msgid "Oldest videos first"
+msgstr ""
+
+#: ../views/import_videos.php:92
+msgid "Most played"
+msgstr ""
+
+#: ../views/import_videos.php:93
+msgid "Most liked"
+msgstr ""
+
+#: ../views/import_videos.php:94
+msgid "Most commented"
+msgstr ""
+
+#: ../views/import_videos.php:95
+msgid "Relevancy"
+msgstr ""
+
+#: ../views/import_videos.php:126
+msgid "Load feed"
+msgstr ""
+
+#: ../views/manage_playlist.php:5
+msgid "Cancel"
+msgstr ""
+
+#: ../views/manage_playlist.php:19
+msgid "Playlist name"
+msgstr ""
+
+#: ../views/manage_playlist.php:22
+msgid "A name for your internal reference."
+msgstr ""
+
+#: ../views/manage_playlist.php:31
+msgid "Vimeo album"
+msgstr ""
+
+#: ../views/manage_playlist.php:32
+msgid "Vimeo channel"
+msgstr ""
+
+#: ../views/manage_playlist.php:33
+msgid "Vimeo user uploads"
+msgstr ""
+
+#: ../views/manage_playlist.php:34
+msgid "Vimeo group"
+msgstr ""
+
+#: ../views/manage_playlist.php:42
+msgid "Choose the kind of playlist you want to import."
+msgstr ""
+
+#: ../views/manage_playlist.php:46
+msgid "Playlist ID"
+msgstr ""
+
+#: ../views/manage_playlist.php:49
+msgid "Check playlist"
+msgstr ""
+
+#: ../views/manage_playlist.php:50
+msgid "Enter playlist ID or user ID according to Feed Type selection."
+msgstr ""
+
+#: ../views/manage_playlist.php:55
+msgid "Add to import queue?"
+msgstr ""
+
+#: ../views/manage_playlist.php:58
+msgid ""
+"If checked, playlist will be added to importing queue and will import when "
+"its turn comes."
+msgstr ""
+
+#: ../views/manage_playlist.php:73
+msgid "Select category (optional)"
+msgstr ""
+
+#: ../views/manage_playlist.php:79
+msgid "Import in category"
+msgstr ""
+
+#: ../views/manage_playlist.php:82
+msgid "Select category for all videos imported from this playlist."
+msgstr ""
+
+#: ../views/manage_playlist.php:94
+#, php-format
+msgid "Import in <strong>%s</strong>? (PRO feature)"
+msgstr ""
+
+#: ../views/manage_playlist.php:99
+msgid "PRO version can import videos directly as posts into your theme."
+msgstr ""
+
+#: ../views/manage_playlist.php:115
+msgid "Save"
+msgstr ""
+
+#: ../views/new_video.php:3
+msgid "step 1"
+msgstr ""
+
+#: ../views/new_video.php:7
+msgid "Please enter the video ID you want to search for:"
+msgstr ""
+
+#: ../views/new_video.php:9
+msgid "how to get video ID"
+msgstr ""
+
+#: ../views/new_video.php:13
+#, php-format
+msgid ""
+"Import as <strong>%s</strong> post<sup>PRO</sup> (PRO version can import "
+"videos directly as posts into your theme)"
+msgstr ""
+
+#: ../views/new_video.php:16
+msgid ""
+"<strong>Step 1</strong> - open any Vimeo video page with your favourite "
+"browser."
+msgstr ""
+
+#: ../views/new_video.php:17
+msgid ""
+"<strong>Step 2</strong> - From your browser address bar copy the ID "
+"(highlighted in image below)."
+msgstr ""
+
+#: ../views/new_video.php:19
+msgid ""
+"<strong>Step 3</strong> - paste the ID into the field above and hit Search "
+"video below."
+msgstr ""
+
+#: ../views/new_video.php:23
+msgid "Search video"
+msgstr ""
+
+#: ../views/plugin_settings.php:3
+msgid "Videos - Plugin settings"
+msgstr ""
+
+#: ../views/plugin_settings.php:13
+msgid "Post options"
+msgstr ""
+
+#: ../views/plugin_settings.php:14
+msgid "Content options"
+msgstr ""
+
+#: ../views/plugin_settings.php:15
+msgid "Embed options"
+msgstr ""
+
+#: ../views/plugin_settings.php:16
+msgid "API access"
+msgstr ""
+
+#: ../views/plugin_settings.php:23
+msgid "General settings"
+msgstr ""
+
+#: ../views/plugin_settings.php:25
+msgid "Allow videos in front-end as posts"
+msgstr ""
+
+#: ../views/plugin_settings.php:30
+msgid ""
+"Videos are not available in front-end to be used as posts. You can only "
+"incorporate them in playlists or display them in regular posts."
+msgstr ""
+
+#: ../views/plugin_settings.php:32
+msgid ""
+"Videos are available in front-end as regular posts are and can also be "
+"incorporated in playlists or displayed in regular posts."
+msgstr ""
+
+#: ../views/plugin_settings.php:39
+msgid "Allow videos in archive pages"
+msgstr ""
+
+#: ../views/plugin_settings.php:43
+msgid ""
+"When checked, videos will be visible on all pages displaying lists of video "
+"posts."
+msgstr ""
+
+#: ../views/plugin_settings.php:49 ../views/plugin_settings.php:106
+#: ../views/plugin_settings.php:202 ../views/plugin_settings.php:239
+msgid "Save settings"
+msgstr ""
+
+#: ../views/plugin_settings.php:57
+msgid "Post content settings"
+msgstr ""
+
+#: ../views/plugin_settings.php:62
+msgid "Automatically import video titles from feeds as post title."
+msgstr ""
+
+#: ../views/plugin_settings.php:67
+msgid "Import descriptions as"
+msgstr ""
+
+#: ../views/plugin_settings.php:72
+msgid "post content"
+msgstr ""
+
+#: ../views/plugin_settings.php:73
+msgid "post excerpt"
+msgstr ""
+
+#: ../views/plugin_settings.php:74
+msgid "post content and excerpt"
+msgstr ""
+
+#: ../views/plugin_settings.php:75
+msgid "do not import"
+msgstr ""
+
+#: ../views/plugin_settings.php:82
+msgid ""
+"Import video description from feeds as post description, excerpt or none."
+msgstr ""
+
+#: ../views/plugin_settings.php:101
+msgid "Bulk imported videos will have this status."
+msgstr ""
+
+#: ../views/plugin_settings.php:116
+msgid "Player size and position"
+msgstr ""
+
+#: ../views/plugin_settings.php:117
+msgid ""
+"General player size settings. These settings will be applied to any new "
+"video by default and can be changed individually for every imported video."
+msgstr ""
+
+#: ../views/plugin_settings.php:144
+msgid "Display video in custom post"
+msgstr ""
+
+#: ../views/plugin_settings.php:175
+msgid "Show video uploader"
+msgstr ""
+
+#: ../views/plugin_settings.php:180
+msgid "Show video uploader image"
+msgstr ""
+
+#: ../views/plugin_settings.php:190
+msgid "Allow fullscreen"
+msgstr ""
+
+#: ../views/plugin_settings.php:212
+msgid "Vimeo oAuth keys"
+msgstr ""
+
+#: ../views/plugin_settings.php:214
+msgid ""
+"In order to be able to make requests to Vimeo API, you must first have a "
+"Vimeo account and create the credentials."
+msgstr ""
+
+#: ../views/plugin_settings.php:215
+msgid ""
+"To register your App, please visit <a target=\"_blank\" href=\"https://"
+"developer.vimeo.com/apps/new\">Vimeo App registration page</a> (requires "
+"login to Vimeo)."
+msgstr ""
+
+#: ../views/plugin_settings.php:216
+#, php-format
+msgid ""
+"A step by step tutorial on how to create an app on Vimeo can be found %shere"
+"%s."
+msgstr ""
+
+#: ../views/plugin_settings.php:219
+#, php-format
+msgid ""
+"Make sure that you have set up the APP Callback URL to: <br /><span class="
+"\"emphasize\">%s</span><br /> in your APP settings on Vimeo."
+msgstr ""
+
+#: ../views/plugin_settings.php:224
+msgid "Enter Vimeo Client Identifier"
+msgstr ""
+
+#: ../views/plugin_settings.php:227 ../views/plugin_settings.php:234
+msgid "You first need to create a Vimeo Account."
+msgstr ""
+
+#: ../views/plugin_settings.php:231
+msgid "Enter Vimeo Client Secrets"
+msgstr ""
