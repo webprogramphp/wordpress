@@ -1,0 +1,184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: frontech\n"
+"POT-Creation-Date: 2019-05-27 13:30+0530\n"
+"PO-Revision-Date: 2019-05-27 13:30+0530\n"
+"Last-Translator: \n"
+"Language-Team: WebHunt\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPathExcluded-0: js\n"
+"X-Poedit-SearchPathExcluded-1: inc/kirki\n"
+"X-Poedit-SearchPathExcluded-2: inc/icon-picker/js\n"
+
+#: 404.php:15
+msgid "Ooopps.!"
+msgstr ""
+
+#: 404.php:15
+msgid "The Page you were looking for doesnt exist"
+msgstr ""
+
+#: 404.php:31
+msgid "404"
+msgstr ""
+
+#: 404.php:34
+msgid "Back To Home Page"
+msgstr ""
+
+#: blog-content.php:67 single.php:95
+msgid ", "
+msgstr ""
+
+#: default_options_child.php:15
+msgid "Lorem Ipsum is simply dummy text of the printing text"
+msgstr ""
+
+#: default_options_child.php:16
+msgid "26, Lorem Ipsum is simply dummy"
+msgstr ""
+
+#: functions.php:72 home-service.php:41 home-slider.php:44
+msgid "Read More"
+msgstr ""
+
+#: functions.php:85
+msgid "Color scheme"
+msgstr ""
+
+#: functions.php:86
+msgid "Select a color scheme"
+msgstr ""
+
+#: functions.php:94
+msgid "Default"
+msgstr ""
+
+#: functions.php:104
+msgid "Orange"
+msgstr ""
+
+#: functions.php:114
+msgid "Cyan"
+msgstr ""
+
+#: functions.php:129
+msgid "Slider Title Background Color"
+msgstr ""
+
+#: functions.php:150
+msgid "Slider Subtitle Background Color"
+msgstr ""
+
+#: functions.php:172
+msgid "Footer Background Color"
+msgstr ""
+
+#: functions.php:196
+msgid "Header Background Color"
+msgstr ""
+
+#: functions.php:230
+msgid "Logo Popup Enable"
+msgstr ""
+
+#: functions.php:231
+msgid "Show/Hide logo popup"
+msgstr ""
+
+#: functions.php:241
+msgid "Company Description"
+msgstr ""
+
+#: functions.php:251
+msgid "Company Address"
+msgstr ""
+
+#: functions.php:261
+msgid "Company Map URL"
+msgstr ""
+
+#: functions.php:272
+msgid "Pinterest Profile URL"
+msgstr ""
+
+#: header.php:60
+msgid "Call Us :"
+msgstr ""
+
+#: header.php:66
+msgid "Email :"
+msgstr ""
+
+#: header.php:153
+msgid "Call Us"
+msgstr ""
+
+#: header.php:159
+msgid "Email"
+msgstr ""
+
+#: header.php:164
+msgid "Your Company Address"
+msgstr ""
+
+#: header.php:169
+msgid "Open in Google Maps"
+msgstr ""
+
+#: home-blog.php:91 single.php:88
+msgid "No Comments"
+msgstr ""
+
+#: home-blog.php:91 single.php:88
+msgid "1 Comment"
+msgstr ""
+
+#: home-blog.php:91 single.php:88
+msgid "% Comments"
+msgstr ""
+
+#: home-blog.php:91 single.php:88
+msgid "Edit"
+msgstr ""
+
+#: home-blog.php:110
+msgid "See More Posts"
+msgstr ""
+
+#: home-portfolio.php:37
+msgid "View Larger"
+msgstr ""
+
+#: home-portfolio.php:38
+msgid "More Details"
+msgstr ""
+
+#: home-slider.php:42
+msgid "Lorem Ipsum is simply"
+msgstr ""
+
+#: home-slider.php:46
+msgid "Lorem Ipsum is simply dummy text of the printing and industry..."
+msgstr ""
+
+#: single.php:114
+msgid "Previous Post"
+msgstr ""
+
+#: single.php:115
+msgid "Next"
+msgstr ""
+
+#: single.php:148
+msgid "Tags"
+msgstr ""
