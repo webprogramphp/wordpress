@@ -1,0 +1,204 @@
+/**==============a1 media screen start==================**/
+@media screen and (max-width:1200px){
+    .copyright-text p{
+        padding-left: 10px;
+    }
+    .banner-text{
+        top: 22%;	
+    }
+    .home-banner{
+        margin-top: 0;	
+    }
+    section{
+        padding-top: 0;	
+    }
+}
+@media screen and (max-width:1024px){
+    .customer-top{
+        padding: 50px 0; 
+         clear: both;       
+    }
+    .home-contact h2 {
+		font-size: 30px;
+	}
+    .home-contact p{
+		font-size: 20px;
+	}	
+}
+@media screen and (max-width:991px){
+    .banner-text{
+        width:100%;
+    }
+    .banner-text .circle-border {
+		margin: 7px 0 20px;
+	}
+	
+}
+@media screen and (max-width: 767px) {
+    .right-side-blog{
+		clear: both;
+    }
+    .social-part{
+        text-align: center;
+    }
+    .social-part ul{
+        display: inline-block;
+        width: 100%;
+    }
+    .social-part p{
+        margin: 0 0 10px 0;
+    }
+    .location-part p{
+        display: block;
+        margin: 0 0 10px 0;
+    }
+    .location-part{
+        text-align: center;
+    }
+    .slide-item h2{
+        font-size: 14px;
+        line-height: 25px;    
+        text-align: justify;
+    }
+    .banner-text h1{
+        font-size: 20px;	
+    }
+    /****top-header**/
+    .email-part,
+    .social-part ul{
+        text-align: center;
+        margin-bottom: 5px;	
+    }
+    /***feature box***/
+    .feature-box{
+        margin-bottom: 50px;	
+    }
+    /***footer***/
+    .footer-column{
+ /*       text-align: center; */
+        margin-bottom: 50px;	
+        display: inline-block;
+        width: 100%;
+    }
+    .copyright-text,
+    .footer-menu ul{
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    /***customer**/
+    .customer-top{
+        padding: 50px 0;  
+        clear: both;        
+    }
+    /**bread****/
+    .left-part h3,
+    .right-part ol{
+        text-align: center;	
+    }
+    /****pricing page******/
+    .pricing-box{
+        margin: 0 auto 30px auto;
+        width: 400px;	
+    }
+    /***about us***/
+    .about-content ul li{
+        margin-left: 0;	
+    }
+    .about-content,
+    .service-box{
+        margin-top: 50px;	
+    }
+}
+@media (max-width:567px){
+    .banner-text{
+        top: 5%;
+    }
+    .carousel-control{
+        width: 30px;
+        top: 35%;
+    }
+    .carousel-control.right{
+        background-position: -124px 0;
+        width: 30px;
+    }
+}
+@media screen and (min-width:992px) and (max-width:1100px){
+    .recent-box .effect-bubba .caption-hover:before, 
+    .recent-box .effect-bubba .caption-hover:after{
+        top: 2%;
+        bottom: 10%;	
+    }
+}
+@media screen and (min-width:768px) and (max-width:991px){
+    .sidebar .a1_recent .recent-box,
+    .footer-column .a1_recent .recent-box {
+        clear: both;
+        width: 100%;
+    }
+    .footer-column .a1_recent .recent-box a{
+    	color:#fff;
+    }
+    
+    .blog-article {       
+        padding-right: 40px;
+    }
+    .blog-article.right-side-blog
+    {       
+        padding-right: 15px;
+        padding-left: 40px;
+    }
+    .footer-column:nth-child(2n+3){
+        clear: left;	
+    }
+    .footer-column{
+        margin-bottom: 50px;	
+    }
+    .menu-top-menu-container {
+        display: flex;
+    }
+}
+@media screen and (min-width:641px) and (max-width:767px){
+    /***footer***/
+    .footer-column{
+        width: 50%;
+        float: left;
+        text-align: left;	
+    }
+    .footer-column:nth-child(2n+3){
+        clear: left;	
+    }
+}
+@media screen and (min-width:569px) and (max-width:640px){
+    /***footer***/
+    .footer-column{
+        width: 50%;
+        float: left;
+        text-align: left;	
+    }
+    .footer-column:nth-child(2n+3){
+        clear: left;	
+    }
+}
+@media screen and (max-width:480px){
+    .pricing-box{
+        width: 100%;	
+    }
+    .banner-text{
+       top: 0;
+    }
+    .banner-text h1 {
+        font-size: 14px;
+        text-transform: capitalize;
+        font-weight: normal;
+    }
+    .banner-text .circle-border {
+        margin: 5px 0 5px;
+    }
+    .banner-text a {
+        font-size: 13px;
+        padding: 5px 10px 5px 10px;
+        position: relative;
+        z-index: 1;
+    }
+}
+/**==========a1 media screen end==============**/

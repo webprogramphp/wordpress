@@ -1,0 +1,567 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: A1 V1.4\n"
+"POT-Creation-Date: 2018-10-05 18:32+0530\n"
+"PO-Revision-Date: 2015-01-21 14:22+0530\n"
+"Last-Translator: FasterThemes <support@fasterthemes.com>\n"
+"Language-Team: FasterThemes <support@fasterthemes.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:11
+msgid "Article Not Found"
+msgstr ""
+
+#: 404.php:22
+msgid "Epic 404 - Article Not Found"
+msgstr ""
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location try a search"
+msgstr ""
+
+#: archive.php:11
+msgid "Daily Archives"
+msgstr ""
+
+#: archive.php:13
+msgid "Monthly Archives"
+msgstr ""
+
+#: archive.php:15
+msgid "Yearly Archives"
+msgstr ""
+
+#: comments.php:16
+#, php-format
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: footer.php:53
+msgid "Powered by"
+msgstr ""
+
+#: footer.php:55
+msgid "A1 WordPress Theme"
+msgstr ""
+
+#: functions.php:23
+msgid "Header Menu"
+msgstr ""
+
+#: functions.php:24
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:76
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: functions.php:85
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:103
+msgid "Primary Sidebar"
+msgstr ""
+
+#: functions.php:105
+msgid "Main sidebar that appears on the right."
+msgstr ""
+
+#: functions.php:112
+msgid "Footer Area One"
+msgstr ""
+
+#: functions.php:114
+msgid "Footer Area One that appears on the footer."
+msgstr ""
+
+#: functions.php:121
+msgid "Footer Area Two"
+msgstr ""
+
+#: functions.php:123
+msgid "Footer Area Two that appears on the footer."
+msgstr ""
+
+#: functions.php:130
+msgid "Footer Area Three"
+msgstr ""
+
+#: functions.php:132
+msgid "Footer Area Three that appears on the footer."
+msgstr ""
+
+#: functions.php:139
+msgid "Footer Area Four"
+msgstr ""
+
+#: functions.php:141
+msgid "Footer Area Four that appears on the footer."
+msgstr ""
+
+#: functions.php:172
+msgid "Read more"
+msgstr ""
+
+#: functions.php:183
+msgid "by"
+msgstr ""
+
+#: functions.php:185
+msgid "On"
+msgstr ""
+
+#: functions.php:187
+msgid "Tags"
+msgstr ""
+
+#: functions.php:241
+msgid "Pro Feature"
+msgstr ""
+
+#: functions.php:241
+msgid "A1 Pro"
+msgstr ""
+
+#: inc/breadcrumbs.php:14 inc/breadcrumbs.php:16
+msgid "Home"
+msgstr ""
+
+#: inc/breadcrumbs.php:20
+msgid "Archive by category"
+msgstr ""
+
+#: inc/breadcrumbs.php:22 search.php:11
+msgid "Search results for"
+msgstr ""
+
+#: inc/breadcrumbs.php:72
+msgid "Posts tagged"
+msgstr ""
+
+#: inc/breadcrumbs.php:76
+msgid "Articles posted by"
+msgstr ""
+
+#: inc/breadcrumbs.php:78
+msgid "Error 404"
+msgstr ""
+
+#: inc/breadcrumbs.php:82
+msgid "Page"
+msgstr ""
+
+#: inc/customizer.php:33
+msgid "General"
+msgstr ""
+
+#: inc/customizer.php:34
+msgid "styling options"
+msgstr ""
+
+#: inc/customizer.php:42
+msgid "Top Header"
+msgstr ""
+
+#: inc/customizer.php:43
+msgid "Top header styling options"
+msgstr ""
+
+#: inc/customizer.php:52
+msgid "Top Header Social Accounts"
+msgstr ""
+
+#: inc/customizer.php:54
+msgid ""
+"In first input box, you need to add FONT AWESOME shortcode which you can "
+"find "
+msgstr ""
+
+#: inc/customizer.php:54
+msgid "here"
+msgstr ""
+
+#: inc/customizer.php:54
+msgid ""
+" and in second input box, you need to add your social media profile URL."
+msgstr ""
+
+#: inc/customizer.php:54
+msgid ""
+" Enter the URL of your social accounts. Leave it empty to hide the icon."
+msgstr ""
+
+#: inc/customizer.php:70
+msgid "Social Account "
+msgstr ""
+
+#: inc/customizer.php:88
+msgid "Enter Icon"
+msgstr ""
+
+#: inc/customizer.php:98
+msgid "Social Link "
+msgstr ""
+
+#: inc/customizer.php:117 inc/customizer.php:636
+msgid "Enter URL"
+msgstr ""
+
+#: inc/customizer.php:125 inc/customizer.php:130
+msgid "Header & Logo"
+msgstr ""
+
+#: inc/customizer.php:147
+msgid "Enter Logo Size"
+msgstr ""
+
+#: inc/customizer.php:148
+msgid ""
+"Use if you want to increase or decrease logo size (optional) Don't enter "
+"`px` in the string. e.g. 20 (default: 10px)"
+msgstr ""
+
+#: inc/customizer.php:158
+msgid "Basic Settings"
+msgstr ""
+
+#: inc/customizer.php:177
+msgid "Enter Email id"
+msgstr ""
+
+#: inc/customizer.php:178
+msgid ""
+"Enter e-mail id for your site , you would like to display in the Top Header."
+msgstr ""
+
+#: inc/customizer.php:196
+msgid "Enter Phone Number"
+msgstr ""
+
+#: inc/customizer.php:197
+msgid ""
+"Enter phone number for your site , you would like to display in the Top "
+"Header."
+msgstr ""
+
+#: inc/customizer.php:214
+msgid "Check for show the breadcrumbs in site."
+msgstr ""
+
+#: inc/customizer.php:232
+msgid "Check this if you want to hide the top header."
+msgstr ""
+
+#: inc/customizer.php:249
+msgid "Check this if you want to have FIXED main menu."
+msgstr ""
+
+#: inc/customizer.php:267
+msgid "Check this if you want to display top header on scroll."
+msgstr ""
+
+#: inc/customizer.php:278
+msgid "Blog (Archive) Page Options"
+msgstr ""
+
+#: inc/customizer.php:296
+msgid "Blog Title "
+msgstr ""
+
+#: inc/customizer.php:298
+msgid "Blog Title"
+msgstr ""
+
+#: inc/customizer.php:313
+msgid "Entry meta by word "
+msgstr ""
+
+#: inc/customizer.php:316
+msgid "Entry meta by word"
+msgstr ""
+
+#: inc/customizer.php:331
+msgid "Entry meta on word "
+msgstr ""
+
+#: inc/customizer.php:334
+msgid "Entry meta on word"
+msgstr ""
+
+#: inc/customizer.php:353
+msgid "Check this to hide meta info on the single blog posts.. "
+msgstr ""
+
+#: inc/customizer.php:370
+msgid ""
+"Check this to hide meta info on all archieve pages (author, tag, date etc).."
+msgstr ""
+
+#: inc/customizer.php:380
+msgid "Front Page Options"
+msgstr ""
+
+#: inc/customizer.php:381
+msgid "Front Page options"
+msgstr ""
+
+#: inc/customizer.php:389
+msgid "Front Page : Banner Slider"
+msgstr ""
+
+#: inc/customizer.php:408
+msgid "Slider Section"
+msgstr ""
+
+#: inc/customizer.php:409
+msgid "Slider Section hide or show ."
+msgstr ""
+
+#: inc/customizer.php:412 inc/customizer.php:526 inc/customizer.php:668
+#: inc/customizer.php:770
+msgid "Show"
+msgstr ""
+
+#: inc/customizer.php:413 inc/customizer.php:527 inc/customizer.php:669
+#: inc/customizer.php:771
+msgid "Hide"
+msgstr ""
+
+#: inc/customizer.php:430
+msgid "Upload Slider Image "
+msgstr ""
+
+#: inc/customizer.php:450
+msgid "Enter Slider Title "
+msgstr ""
+
+#: inc/customizer.php:452
+msgid "Enter Slider Title"
+msgstr ""
+
+#: inc/customizer.php:466
+msgid "Enter Slider Button Text "
+msgstr ""
+
+#: inc/customizer.php:468
+msgid "Enter Slider Button Text"
+msgstr ""
+
+#: inc/customizer.php:482
+msgid "Enter Slider URL "
+msgstr ""
+
+#: inc/customizer.php:484
+msgid "Enter Slider URL"
+msgstr ""
+
+#: inc/customizer.php:492
+msgid "Front Page : Core Features Section"
+msgstr ""
+
+#: inc/customizer.php:503
+msgid "Front Page : First Section"
+msgstr ""
+
+#: inc/customizer.php:522
+msgid "Service Section"
+msgstr ""
+
+#: inc/customizer.php:523
+msgid "Service Section hide or show ."
+msgstr ""
+
+#: inc/customizer.php:543
+msgid "Enter Service Title "
+msgstr ""
+
+#: inc/customizer.php:545
+msgid "Enter Service Title"
+msgstr ""
+
+#: inc/customizer.php:560
+msgid "Enter Service Short Description "
+msgstr ""
+
+#: inc/customizer.php:562
+msgid "Enter Service Short Description"
+msgstr ""
+
+#: inc/customizer.php:580
+msgid "Upload Icon should be (43px X 28px) "
+msgstr ""
+
+#: inc/customizer.php:600
+msgid "Enter Tab Title "
+msgstr ""
+
+#: inc/customizer.php:602
+msgid "Enter title"
+msgstr ""
+
+#: inc/customizer.php:617
+msgid "Enter Tab Description "
+msgstr ""
+
+#: inc/customizer.php:619 inc/customizer.php:721
+msgid "Enter Description"
+msgstr ""
+
+#: inc/customizer.php:634
+msgid "Enter Tab Link "
+msgstr ""
+
+#: inc/customizer.php:644
+msgid "Front Page : Second Section"
+msgstr ""
+
+#: inc/customizer.php:664
+msgid "Second Section"
+msgstr ""
+
+#: inc/customizer.php:665
+msgid "Second Section hide or show ."
+msgstr ""
+
+#: inc/customizer.php:685
+msgid "Enter Second Section Title "
+msgstr ""
+
+#: inc/customizer.php:687 inc/customizer.php:789
+msgid "Enter Title"
+msgstr ""
+
+#: inc/customizer.php:702 inc/customizer.php:804
+msgid "Enter Short Caption"
+msgstr ""
+
+#: inc/customizer.php:704 inc/customizer.php:806
+msgid "Enter Caption"
+msgstr ""
+
+#: inc/customizer.php:719
+msgid "Enter Short Description"
+msgstr ""
+
+#: inc/customizer.php:735
+msgid "Enter Second Section Email "
+msgstr ""
+
+#: inc/customizer.php:737
+msgid "Enter Email"
+msgstr ""
+
+#: inc/customizer.php:746
+msgid "Front Page : Third Section"
+msgstr ""
+
+#: inc/customizer.php:766
+msgid "Third Section"
+msgstr ""
+
+#: inc/customizer.php:767
+msgid "Third Section hide or show ."
+msgstr ""
+
+#: inc/customizer.php:787
+msgid "Enter Third Section Title "
+msgstr ""
+
+#: inc/customizer.php:820
+msgid "Upload Third Section Get In Touch Logo "
+msgstr ""
+
+#: inc/customizer.php:839
+msgid "Enter Third Section Button Title "
+msgstr ""
+
+#: inc/customizer.php:841
+msgid "Enter Button Title"
+msgstr ""
+
+#: inc/customizer.php:856
+msgid "Enter Third Section Button Link"
+msgstr ""
+
+#: inc/customizer.php:858
+msgid "Enter Button URL"
+msgstr ""
+
+#: inc/customizer.php:866
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer.php:884
+msgid "Enter Footer Content Text"
+msgstr ""
+
+#: inc/customizer.php:885
+msgid "Enter content for your site , you would like to display in the Footer."
+msgstr ""
+
+#: inc/customizer.php:903
+msgid "Enter Copyright Text"
+msgstr ""
+
+#: inc/customizer.php:904
+msgid "Copyright text for the footer of your website."
+msgstr ""
+
+#: index.php:14
+msgid "Blog"
+msgstr ""
+
+#: page-templates/home-page.php:24
+msgid "First slide"
+msgstr ""
+
+#: page-templates/home-page.php:100
+msgid "Enter your name"
+msgstr ""
+
+#: page-templates/home-page.php:101
+msgid "Enter your email"
+msgstr ""
+
+#: page-templates/home-page.php:102
+msgid "Enter your phone"
+msgstr ""
+
+#: page-templates/home-page.php:103
+msgid "Enter your message"
+msgstr ""
+
+#: page-templates/home-page.php:104
+msgid "send"
+msgstr ""
+
+#: page.php:32 single.php:37
+msgid "Pages"
+msgstr ""
+
+#: search.php:41
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: tag.php:11
+msgid "Tag"
+msgstr ""
